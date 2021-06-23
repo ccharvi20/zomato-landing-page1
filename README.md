@@ -1,2 +1,2 @@
-# zomato-landing-page
+# zomat02
 first bootcamp html css project
